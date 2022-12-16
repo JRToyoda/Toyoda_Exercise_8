@@ -1,6 +1,5 @@
 data = [5, 3, 7]
 
-
 # 1. Assume that the variable data refers to the list [5, 3, 7]. Write the values of the following expressions:
 
 print(data[2])  # 7
